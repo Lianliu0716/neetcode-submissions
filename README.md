@@ -1,4 +1,4 @@
-# LeetCode / NeetCode Grind — Chia-Hua Liu
+# LeetCode / NeetCode Grind 
 Daily problem-solving practice, auto-synced from NeetCode.io.
 Following the **NeetCode 150** roadmap in Python, targeting software roles ML/DA in 2027 
 ## Progress
